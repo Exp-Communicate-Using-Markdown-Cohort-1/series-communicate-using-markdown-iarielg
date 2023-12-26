@@ -6,3 +6,7 @@
 git init
 Click here 
 ```
+
+- [x] Learn on Github
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
